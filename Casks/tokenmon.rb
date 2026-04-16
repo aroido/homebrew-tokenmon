@@ -1,6 +1,6 @@
 cask "tokenmon" do
   version "0.1.6"
-  sha256 "28e7d91e657a87eb9a024fe84b7b0e884ea5cdac62ac2b2e963037c98a3338bd"
+  sha256 "1b1d6f611c9f84e7490c1c37822af214a6ffb7ceacbbce14ba229340e9bc6df1"
 
   url "https://github.com/aroido/tokenmon/releases/download/v#{version}/Tokenmon-#{version}.dmg"
   name "Tokenmon"
